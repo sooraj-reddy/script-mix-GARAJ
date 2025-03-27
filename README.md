@@ -21,25 +21,31 @@ The code is available in **`script-mix-GARAJ.ipynb`**.
 Ensure you have the following installed:  
 - **Python (≥3.x)**  
 - **Jupyter Notebook**  
-- **PyTorch with CUDA support**  
-- **Transformers & Adapter-Transformers libraries**  
-- **Other dependencies** listed in `requirements.txt`  
+- **PyTorch with CUDA support**
 
 ### 1. Clone the Repository  
 
-git clone https://github.com/your-username/script-mix-GARAJ.git
-cd script-mix-GARAJ
+- **git clone https://github.com/your-username/script-mix-GARAJ.git**
+- **cd script-mix-GARAJ**
 
 ### 2. Create a CONDA environment
 
-conda create --name scriptmix python=3.x
-conda activate scriptmix
+- **conda create --name scriptmix python=3.x**
+- **conda activate scriptmix**
 
 ### 3. Install Dependencies
 
-pip install -r requirements.txt
+- **git clone https://github.com/adapter-hub/adapters.git**
+- **pip install -r requirements.txt**
 
 ### 4. Launch Jupyter Notebook
 
-jupyter notebook
+- **jupyter notebook**
+
 Then open script-mix-GARAJ.ipynb and execute the cells sequentially.
+
+## How to Run the Code over Google Colab?  
+
+1. **Load the .ipynb file onto Google Colab.**
+2. **Upload the .conllu dataset files of the language (train, dev, test) to the colab file.**
+3. **Run all the cells at your own pace.**
