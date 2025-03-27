@@ -1,0 +1,96 @@
+# sent_id = data_UD-Sleepwalking-26-s17
+# text = ጥርሴ ቆሎ አያስበላኝም ።
+# translit = ţərəse qolo 'äjasəbälaňəmə .
+1-2	ጥርሴ	_	_	_	_	_	_	_	_
+1	ጥርስ	ጥርስ	NOUN	NOUN	_	6	nsubj	_	Translit=ţərəsə|LTranslit=ţərəsə
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='e
+3	ቆሎ	ቆሎ	NOUN	NOUN	_	6	obj	_	Translit=qolo|LTranslit=qolo
+4-9	አያስበላኝም	_	_	_	_	_	_	_	_
+4	ኣል	ኣል	PART	NEG	Polarity=Neg	6	advmod	_	Translit='alə|LTranslit='alə
+5	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit=jə
+6	ኣስበላ	ኣስበላ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asəbäla|LTranslit='asəbäla
+7	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	LTranslit='əsu|Translit='ă
+8	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	6	iobj	_	LTranslit='əne|Translit=ňə
+9	ም	ም	PART	NCM	_	6	discourse	_	Translit=mə|LTranslit=mə
+10	።	።	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-26-s18
+# text = ሥራዬን ለምን አታሰራኝም ?
+# translit = śərajenə lämənə 'ätasäraňəmə ?
+1-3	ሥራዬን	_	_	_	_	_	_	_	_
+1	ሥራ	ሥራ	NOUN	NOUN	_	7	obj	_	Translit=śəra|LTranslit=śəra
+2	ኤ	እኔ	PRON	POSM	Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	nmod	_	LTranslit='əne|Translit='e
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4	ለምን	ለምን	ADV	ADV	_	7	advmod	_	Translit=lämənə|LTranslit=lämənə
+5-10	አታሰራኝም	_	_	_	_	_	_	_	_
+5	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	Translit='alə|LTranslit='alə
+6	ት	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl	_	LTranslit='əsu|Translit=tə
+7	ኣሰራ	ኣሰራ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asära|LTranslit='asära
+8	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit='ă
+9	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	7	iobj	_	LTranslit='əne|Translit=ňə
+10	ም	ም	PART	NCM	_	7	discourse	_	Translit=mə|LTranslit=mə
+11	?	?	PUNCT	PUNCT	_	7	punct	_	Translit=?|LTranslit=?
+
+# sent_id = data_UD-Sleepwalking-26-s19
+# text = ጩኸቱ አያስተኛኝም ።
+# translit = ćukchätu 'äjasətäňaňəmə .
+1-2	ጩኸቱ	_	_	_	_	_	_	_	_
+1	ጩኸት	ጩኸት	NOUN	NOUN	_	5	nsubj	_	Translit=ćukchätə|LTranslit=ćukchätə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3-8	አያስተኛኝም	_	_	_	_	_	_	_	_
+3	ኣል	ኣል	PART	NEG	Polarity=Neg	5	advmod	_	Translit='alə|LTranslit='alə
+4	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit=jə
+5	ኣስተኛ	ኣስተኛ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asətäňa|LTranslit='asətäňa
+6	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	LTranslit='əsu|Translit='ă
+7	ኝ	እኔ	PRON	OBJC	Number=Sing|Person=1|PronType=Prs	5	expl	_	LTranslit='əne|Translit=ňə
+8	ም	ም	PART	NCM	_	5	discourse	_	Translit=mə|LTranslit=mə
+9	።	።	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-26-s20
+# text = የደከሙት አይኖቹ ብዙ አያስነብቡትም ።
+# translit = jädäkämutə 'äjənoču bəzu 'äjasənäbəbutəmə .
+1-4	የደከሙት	_	_	_	_	_	_	_	_
+1	የ	የ	PART	RLP	_	2	mark	_	Translit=jä|LTranslit=jä
+2	ደከም	ደከም	VERB	VERB	Mood=Ind|VerbForm=Fin	5	acl	_	Translit=däkämə|LTranslit=däkämə
+3	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	LTranslit='əsu|Translit='u
+4	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	LTranslit='əsu|Translit=tə
+5-6	አይኖቹ	_	_	_	_	_	_	_	_
+5	አይኖች	አይኖች	NOUN	NOUN	Number=Plur	10	nsubj	_	Translit='äjənočə|LTranslit='äjənočə
+6	ኡ	እሱ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	LTranslit='əsu|Translit='u
+7	ብዙ	ብዙ	ADV	ADV	_	10	advmod	_	Translit=bəzu|LTranslit=bəzu
+8-13	አያስነብቡትም	_	_	_	_	_	_	_	_
+8	ኣል	ኣል	PART	NEG	Polarity=Neg	10	advmod	_	Translit='alə|LTranslit='alə
+9	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit=jə
+10	ኣስነብ	ኣስነብ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Cau	0	root	_	Translit='asənäbə|LTranslit='asənäbə
+11	ኡ	እሱ	PRON	SUBJC	Number=Plur|Person=3|PronType=Prs	10	expl	_	LTranslit='əsu|Translit='u
+12	ት	እሱ	PRON	OBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	LTranslit='əsu|Translit=tə
+13	ም	ም	PART	NCM	_	10	discourse	_	Translit=mə|LTranslit=mə
+14	።	።	PUNCT	PUNCT	_	10	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s1
+# text = ካሳ አስተማሪ ነው ።
+# translit = kasa 'äsətämari näwə .
+1	ካሳ	ካሳ	PROPN	PROPN	_	2	nsubj	_	Translit=kasa|LTranslit=kasa
+2	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
+3-4	ነው	_	_	_	_	_	_	_	_
+3	ን	ን	AUX	AUX	_	2	cop	_	LTranslit=nə|Translit=nə
+4	ኧው	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ăwə
+5	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s2
+# text = አስተማሪ ናት ።
+# translit = 'äsətämari natə .
+1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
+2-3	ናት	_	_	_	_	_	_	_	_
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
+3	ኣት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	LTranslit='əsu|Translit='atə
+4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s3
+# text = አስተማሪ ነው ።
+# translit = 'äsətämari näwə .
+1	አስተማሪ	አስተማሪ	NOUN	NOUN	_	0	root	_	Translit='äsətämari|LTranslit='äsətämari
+2-3	ነው	_	_	_	_	_	_	_	_
+2	ን	ን	AUX	AUX	_	1	cop	_	LTranslit=nə|Translit=nə
+3	ኧው	ኧው	PRON	SUBJC	Gender=Masc|Number=Sing	1	nsubj	_	Translit='ăwə|LTranslit='ăwə
+4	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.

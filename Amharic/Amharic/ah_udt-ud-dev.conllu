@@ -1,0 +1,92 @@
+# sent_id = data_UD-Sleepwalking-Am_aux-s4
+# text = አለቀሰ ።
+# translit = 'äläqäsä .
+1-2	አለቀሰ	_	_	_	_	_	_	_	_
+1	አለቀስ	አለቀስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Trans	0	root	_	Translit='äläqäsə|LTranslit='äläqäsə
+2	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	nsubj:pass	_	LTranslit='əsu|Translit='ă
+3	።	።	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s5
+# text = እሱ አለቀሰ ።
+# translit = 'əsu 'äläqäsä .
+1	እሱ	እሱ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj:pass	_	LTranslit='əsu|Translit='əsu
+2-3	አለቀሰ	_	_	_	_	_	_	_	_
+2	አለቀስ	አለቀስ	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Trans	0	root	_	Translit='äläqäsə|LTranslit='äläqäsə
+3	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl	_	LTranslit='əsu|Translit='ă
+4	።	።	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s6
+# text = በሩን ከፍቶ እቤት ገብቶ እቃውን አዘጋጅቶ ቤቱን ጠርጎ ሄደ ።
+# translit = bärunə käfəto 'əbetə gäbəto 'əqawənə 'äzägadžəto betunə ţärəgo hedä .
+1-3	በሩን	_	_	_	_	_	_	_	_
+1	በር	በር	NOUN	NOUN	_	4	obj	_	Translit=bärə|LTranslit=bärə
+2	ኡ	ኡ	DET	DET	_	1	det	_	Translit='u|LTranslit='u
+3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
+4-5	ከፍቶ	_	_	_	_	_	_	_	_
+4	ከፍት	ከፍት	VERB	VERB	VerbForm=Conv	8	compound:svc	_	Translit=käfətə|LTranslit=käfətə
+5	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	LTranslit='əsu|Translit='o
+6-7	እቤት	_	_	_	_	_	_	_	_
+6	እ	እ	ADP	ADP	_	7	case	_	Translit='ə|LTranslit='ə
+7	ቤት	ቤት	NOUN	NOUN	_	8	obl	_	Translit=betə|LTranslit=betə
+8-9	ገብቶ	_	_	_	_	_	_	_	_
+8	ገብት	ገብት	VERB	VERB	VerbForm=Conv	13	compound:svc	_	Translit=gäbətə|LTranslit=gäbətə
+9	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl	_	LTranslit='əsu|Translit='o
+10-12	እቃውን	_	_	_	_	_	_	_	_
+10	እቃ	እቃ	NOUN	NOUN	_	13	obj	_	Translit='əqa|LTranslit='əqa
+11	ው	ው	DET	DET	_	10	det	_	Translit=wə|LTranslit=wə
+12	ን	ን	PART	ACC	_	10	case	_	Translit=nə|LTranslit=nə
+13-14	አዘጋጅቶ	_	_	_	_	_	_	_	_
+13	አዘጋጅት	አዘጋጅት	VERB	VERB	VerbForm=Conv	18	compound:svc	_	Translit='äzägadžətə|LTranslit='äzägadžətə
+14	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl	_	LTranslit='əsu|Translit='o
+15-17	ቤቱን	_	_	_	_	_	_	_	_
+15	ቤት	ቤት	NOUN	NOUN	_	18	obj	_	Translit=betə|LTranslit=betə
+16	ኡ	ኡ	DET	DET	_	15	det	_	Translit='u|LTranslit='u
+17	ን	ን	PART	ACC	_	15	case	_	Translit=nə|LTranslit=nə
+18-19	ጠርጎ	_	_	_	_	_	_	_	_
+18	ጠርግ	ጠርግ	VERB	VERB	VerbForm=Conv	20	compound:svc	_	Translit=ţärəgə|LTranslit=ţärəgə
+19	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	expl	_	LTranslit='əsu|Translit='o
+20-21	ሄደ	_	_	_	_	_	_	_	_
+20	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hedə|LTranslit=hedə
+21	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	LTranslit='əsu|Translit='ă
+22	።	።	PUNCT	PUNCT	_	20	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s7
+# text = ቆሞ ተናገረ ።
+# translit = qomo tänagärä .
+1-2	ቆሞ	_	_	_	_	_	_	_	_
+1	ቆም	ቆም	VERB	VERB	VerbForm=Conv	3	advcl	_	Translit=qomə|LTranslit=qomə
+2	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='o
+3-4	ተናገረ	_	_	_	_	_	_	_	_
+3	ተናግር	ተናግር	VERB	VERB	Mood=Ind|VerbForm=Fin|Voice=Pass	0	root	_	Translit=tänagərə|LTranslit=tänagərə
+4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ă
+5	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-Sleepwalking-Am_aux-s8
+# text = ተመልሶ ሄደ ።
+# translit = tämäləso hedä .
+1-2	ተመልሶ	_	_	_	_	_	_	_	_
+1	ተመልስ	ተመልስ	VERB	VERB	Mood=Ind|VerbForm=Fin	3	advcl	_	Translit=tämäləsə|LTranslit=tämäləsə
+2	ኦ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	expl	_	LTranslit='əsu|Translit='o
+3-4	ሄደ	_	_	_	_	_	_	_	_
+3	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=hedə|LTranslit=hedə
+4	ኧ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	LTranslit='əsu|Translit='ă
+5	።	።	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=.
+
+# sent_id = data_UD-x00-s1
+# text = ከኔ ጋር ባትሄድ ይሻለኛል ።
+# translit = käne garə batəhedə jəšaläňalə .
+1-2	ከኔ	_	_	_	_	_	_	_	_
+1	ከ	ከ	ADP	ADP	_	2	case	_	Translit=kä|LTranslit=kä
+2	እኔ	እኔ	PRON	PRON	Number=Sing|Person=1|PronType=Prs	7	nmod	_	LTranslit='əne|Translit='əne
+3	ጋር	ጋር	ADP	ADP	_	2	case	_	Translit=garə|LTranslit=garə
+4-7	ባትሄድ	_	_	_	_	_	_	_	_
+4	ብ	ብ	SCONJ	SCONJ	_	7	mark	_	Translit=bə|LTranslit=bə
+5	ኣል	ኣል	PART	NEG	Polarity=Neg	7	advmod	_	Translit='alə|LTranslit='alə
+6	ት	እሱ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	LTranslit='əsu|Translit=tə
+7	ሄድ	ሄድ	VERB	VERB	Mood=Ind|VerbForm=Fin	9	ccomp	_	Translit=hedə|LTranslit=hedə
+8-11	ይሻለኛል	_	_	_	_	_	_	_	_
+8	ይ	እሱ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	LTranslit='əsu|Translit=jə
+9	ሻል	ሻል	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	Translit=šalə|LTranslit=šalə
+10	ኧኝ	እኔ	PRON	SUBJC	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	LTranslit='əne|Translit='ăňə
+11	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='alə|LTranslit='alə
+12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
