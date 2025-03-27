@@ -3,4 +3,5 @@ datasets
 conllu
 transformers
 adapter-transformers
+torch 
 -e ./adapters
