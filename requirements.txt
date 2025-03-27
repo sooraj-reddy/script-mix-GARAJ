@@ -1,0 +1,6 @@
+sklearn-crfsuite
+datasets
+conllu
+transformers
+adapter-transformers
+-e ./adapters
