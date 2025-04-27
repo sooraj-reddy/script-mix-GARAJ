@@ -42,7 +42,7 @@ Ensure you have the following installed:
 
 - **jupyter notebook**
 
-Then open script-mix-GARAJ.ipynb and execute the cells sequentially.
+Then open distilbert-and-unipelt.ipynb and execute the cells sequentially.
 
 ## How to Run the Code over Google Colab?  
 
