@@ -10,7 +10,7 @@ Script Mix is executed with the following pipeline:
 4. **Fusing these two Language Adapters** using Adapter Fusion Plus.  
 5. **Training a new task adapter** upon this for POS Tagging and Dependency Parsing.  
 
-The code is available in **`script-mix-GARAJ.ipynb`**.  
+The code is available in **`distilbert_and_unipelt.ipynb`**.  
 
 ---
 
@@ -42,7 +42,7 @@ Ensure you have the following installed:
 
 - **jupyter notebook**
 
-Then open distilbert-and-unipelt.ipynb and execute the cells sequentially.
+Then open distilbert_and_unipelt.ipynb and execute the cells sequentially.
 
 ## How to Run the Code over Google Colab?  
 
